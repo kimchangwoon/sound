@@ -1,0 +1,960 @@
+﻿go##가다###I go home.####나는 집에 갑니다.
+word##단어###I know this word.####나는 이 단어를 압니다.
+day##날###Today is a good day.####오늘은 좋은 날입니다.
+music##음악###I like music.####나는 음악을 좋아합니다.
+story##이야기###I read a story.####나는 이야기를 읽습니다.
+like##좋아하다###I like apples.####나는 사과를 좋아합니다.
+student##학생###I am a student.####나는 학생입니다.
+in##~안에###The cat is in the box.####고양이가 상자 안에 있습니다.
+big##큰###It is a big house.####그것은 큰 집입니다.
+room##방###This is my room.####여기는 내 방입니다.
+here##여기에###Come here.####여기로 오세요.
+happy##행복한###I am happy.####나는 행복합니다.
+food##음식###The food is good.####음식이 맛있습니다.
+do##하다###I do my homework.####나는 숙제를 합니다.
+cat##고양이###The cat is cute.####고양이가 귀엽습니다.
+hat##모자###This is my hat.####이것은 내 모자입니다.
+song##노래###I sing a song.####나는 노래를 부릅니다.
+soft##부드러운###This pillow is soft.####이 베개는 부드럽습니다.
+have##가지다###I have a book.####나는 책이 있습니다.
+clock##시계###The clock is new.####시계가 새것입니다.
+number##숫자###Write the number.####숫자를 쓰세요.
+friend##친구###He is my friend.####그는 내 친구입니다.
+there##거기에###The bag is there.####가방이 저기에 있습니다.
+breakfast##아침 식사###I eat breakfast.####나는 아침을 먹습니다.
+want##원하다###I want water.####나는 물을 원합니다.
+can##~할 수 있다###I can swim.####나는 수영할 수 있습니다.
+to##~로###I go to school.####나는 학교에 갑니다.
+start##시작하다###Let's start now.####지금 시작합시다.
+good##좋은###She is a good teacher.####그녀는 좋은 선생님입니다.
+old##오래된###This book is old.####이 책은 오래되었습니다.
+fish##물고기###I see a fish.####나는 물고기를 봅니다.
+guitar##기타###I play the guitar.####나는 기타를 칩니다.
+sister##여자 형제###She is my sister.####그녀는 내 여동생입니다.
+doctor##의사###The doctor is kind.####의사 선생님은 친절합니다.
+season##계절###Spring is my favorite season.####봄은 내가 가장 좋아하는 계절입니다.
+time##시간###It is time to go.####갈 시간입니다.
+job##직업###My job is fun.####내 직업은 즐겁습니다.
+many##많은###I have many books.####나는 책이 많이 있습니다.
+tooth##이###Brush your tooth.####이를 닦으세요.
+look##보다###Look at me.####나를 보세요.
+gift##선물###This gift is for you.####이 선물은 당신을 위한 것입니다.
+play##놀다###Children play outside.####아이들은 밖에서 놉니다.
+tall##키가 큰###He is tall.####그는 키가 큽니다.
+on##~위에###The book is on the table.####책이 탁자 위에 있습니다.
+winter##겨울###Winter is cold.####겨울은 춥습니다.
+mountain##산###We climb a mountain.####우리는 산에 오릅니다.
+skirt##치마###She wears a skirt.####그녀는 치마를 입습니다.
+favorite##가장 좋아하는###Blue is my favorite color.####파란색은 내가 가장 좋아하는 색입니다.
+today##오늘###Today is sunny.####오늘은 맑습니다.
+dollar##달러###I have one dollar.####나는 1달러가 있습니다.
+give##주다###Please give me the book.####책을 주세요.
+elephant##코끼리###The elephant is big.####코끼리는 큽니다.
+spoon##숟가락###Use a spoon.####숟가락을 사용하세요.
+tree##나무###The tree is tall.####그 나무는 큽니다.
+parent##부모###My parents love me.####부모님은 나를 사랑합니다.
+puzzle##퍼즐###I like puzzles.####나는 퍼즐을 좋아합니다.
+long##긴###The road is long.####길이 깁니다.
+very##매우###I am very happy.####나는 매우 행복합니다.
+mouth##입###Open your mouth.####입을 벌리세요.
+say##말하다###Say hello.####안녕하세요라고 말하세요.
+shirt##셔츠###This is my shirt.####이것은 내 셔츠입니다.
+help##돕다###Please help me.####저를 도와주세요.
+smart##똑똑한###She is smart.####그녀는 똑똑합니다.
+carrot##당근###I eat a carrot.####나는 당근을 먹습니다.
+lip##입술###Her lips are red.####그녀의 입술은 빨갛습니다.
+son##아들###He is my son.####그는 내 아들입니다.
+famous##유명한###He is famous.####그는 유명합니다.
+near##가까이###The park is near.####공원이 가깝습니다.
+see##보다###I see a bird.####나는 새를 봅니다.
+towel##수건###Use this towel.####이 수건을 사용하세요.
+picnic##소풍###We have a picnic.####우리는 소풍을 갑니다.
+horse##말###The horse runs fast.####말이 빨리 달립니다.
+toy##장난감###This toy is fun.####이 장난감은 재미있습니다.
+uncle##삼촌###My uncle is kind.####우리 삼촌은 친절합니다.
+will##~할 것이다###I will come.####나는 올 것입니다.
+prince##왕자###The prince smiles.####왕자가 미소 짓습니다.
+bath##목욕###I take a bath.####나는 목욕을 합니다.
+diary##일기###I write a diary.####나는 일기를 씁니다.
+school##학교###I go to school.####나는 학교에 갑니다.
+know##알다###I know the answer.####나는 답을 압니다.
+every##모든###I study every day.####나는 매일 공부합니다.
+cool##시원한###The wind is cool.####바람이 시원합니다.
+at##~에서###I am at home.####나는 집에 있습니다.
+movie##영화###We watch a movie.####우리는 영화를 봅니다.
+road##길###The road is long.####길이 깁니다.
+store##가게###I go to the store.####나는 가게에 갑니다.
+brother##남자 형제###He is my brother.####그는 내 형제입니다.
+class##반###Our class is fun.####우리 반은 즐겁습니다.
+ant##개미###The ant is small.####개미는 작습니다.
+dream##꿈###I have a dream.####나는 꿈이 있습니다.
+spring##봄###Spring is warm.####봄은 따뜻합니다.
+rain##비###The rain is heavy.####비가 많이 옵니다.
+shy##수줍은###She is shy.####그녀는 수줍음을 탑니다.
+fool##바보###Don't be a fool.####바보처럼 굴지 마세요.
+jump##뛰다###The boy can jump.####그 소년은 뛸 수 있습니다.
+arrive##도착하다###We arrive early.####우리는 일찍 도착합니다.
+fox##여우###The fox is clever.####여우는 영리합니다.
+ago##~전에###I came here a year ago.####나는 1년 전에 여기 왔습니다.
+easy##쉬운###This is easy.####이것은 쉽습니다.
+eat##먹다###I eat an apple.####나는 사과를 먹습니다.
+come##오다###Come with me.####나와 함께 오세요.
+news##뉴스###The news is good.####좋은 소식입니다.
+sick##아픈###He is sick.####그는 아픕니다.
+doll##인형###She has a doll.####그녀는 인형을 가지고 있습니다.
+candy##사탕###I like candy.####나는 사탕을 좋아합니다.
+finger##손가락###Raise your finger.####손가락을 들어 보세요.
+band##밴드###The band plays music.####그 밴드는 음악을 연주합니다.
+noon##정오###We meet at noon.####우리는 정오에 만납니다.
+hair##머리카락###Her hair is long.####그녀의 머리카락은 깁니다.
+pack##짐을 싸다###I pack my bag.####나는 가방을 쌉니다.
+feel##느끼다###I feel happy.####나는 행복을 느낍니다.
+from##~에서###I am from Korea.####나는 한국에서 왔습니다.
+holiday##휴일###Today is a holiday.####오늘은 휴일입니다.
+short##짧은###The pencil is short.####연필이 짧습니다.
+zebra##얼룩말###The zebra is fast.####얼룩말은 빠릅니다.
+angry##화난###She is angry.####그녀는 화가 났습니다.
+well##잘###I sing well.####나는 노래를 잘합니다.
+dinner##저녁 식사###We eat dinner together.####우리는 함께 저녁을 먹습니다.
+aunt##이모###My aunt is kind.####우리 이모는 친절합니다.
+knife##칼###Be careful with the knife.####칼을 조심하세요.
+buy##사다###I buy a book.####나는 책을 삽니다.
+note##메모###Write a note.####메모를 쓰세요.
+park##공원###We play in the park.####우리는 공원에서 놉니다.
+find##찾다###I find my bag.####나는 내 가방을 찾습니다.
+desk##책상###The desk is clean.####책상이 깨끗합니다.
+birthday##생일###Today is my birthday.####오늘은 내 생일입니다.
+stone##돌###The stone is heavy.####그 돌은 무겁습니다.
+quiet##조용한###Please be quiet.####조용히 하세요.
+yellow##노란색###The flower is yellow.####꽃이 노랗습니다.
+market##시장###We go to the market.####우리는 시장에 갑니다.
+child##아이###The child is happy.####아이가 행복합니다.
+tomorrow##내일###See you tomorrow.####내일 만나요.
+bread##빵###I eat bread.####나는 빵을 먹습니다.
+slow##느린###The turtle is slow.####거북이는 느립니다.
+meet##만나다###Nice to meet you.####만나서 반갑습니다.
+answer##대답###I know the answer.####나는 답을 압니다.
+violin##바이올린###She plays the violin.####그녀는 바이올린을 연주합니다.
+honey##꿀###Honey is sweet.####꿀은 달콤합니다.
+house##집###This is my house.####이곳은 우리 집입니다.
+lunch##점심###We eat lunch.####우리는 점심을 먹습니다.
+sad##슬픈###He looks sad.####그는 슬퍼 보입니다.
+umbrella##우산###Take your umbrella.####우산을 가져가세요.
+ball##공###Kick the ball.####공을 차세요.
+mother##어머니###I love my mother.####나는 어머니를 사랑합니다.
+make##만들다###I make a cake.####나는 케이크를 만듭니다.
+check##확인하다###Please check this.####이것을 확인하세요.
+small##작은###The cat is small.####고양이는 작습니다.
+bank##은행###The bank is near.####은행이 가깝습니다.
+question##질문###I have a question.####질문이 있습니다.
+for##~을 위해###This gift is for you.####이 선물은 당신을 위한 것입니다.
+stop##멈추다###Please stop here.####여기서 멈추세요.
+fruit##과일###Fruit is healthy.####과일은 건강에 좋습니다.
+dirty##더러운###My shoes are dirty.####내 신발이 더럽습니다.
+exercise##운동###I exercise every day.####나는 매일 운동합니다.
+dog##개###The dog is friendly.####그 개는 친절합니다.
+bed##침대###Go to bed early.####일찍 잠자리에 드세요.
+leg##다리###My leg hurts.####다리가 아픕니다.
+tiger##호랑이###The tiger is strong.####호랑이는 강합니다.
+dance##춤추다###Let's dance together.####함께 춤춰요.
+husband##남편###Her husband is kind.####그녀의 남편은 친절합니다.
+pass##지나가다###The bus will pass soon.####버스가 곧 지나갑니다.
+pencil##연필###I need a pencil.####나는 연필이 필요합니다.
+chair##의자###Sit on the chair.####의자에 앉으세요.
+fast##빠른###The train is fast.####기차는 빠릅니다.
+magic##마법###Magic is amazing.####마법은 신기합니다.
+river##강###The river is wide.####강이 넓습니다.
+restaurant##식당###We eat at a restaurant.####우리는 식당에서 식사합니다.
+salad##샐러드###I like salad.####나는 샐러드를 좋아합니다.
+name##이름###What is your name?####당신의 이름은 무엇인가요?
+father##아버지###My father is tall.####우리 아버지는 키가 큽니다.
+sale##세일###The shoes are on sale.####신발을 세일 중입니다.
+read##읽다###I read a book.####나는 책을 읽습니다.
+get##얻다###I get a gift.####나는 선물을 받습니다.
+eraser##지우개###Use an eraser.####지우개를 사용하세요.
+clean##깨끗한###The room is clean.####방이 깨끗합니다.
+angel##천사###The angel smiles.####천사가 미소 짓습니다.
+high##높은###The mountain is high.####산이 높습니다.
+usually##보통###I usually walk home.####나는 보통 걸어서 집에 갑니다.
+voice##목소리###I know your voice.####나는 당신의 목소리를 압니다.
+classroom##교실###The classroom is quiet.####교실이 조용합니다.
+rock##바위###The rock is heavy.####그 바위는 무겁습니다.
+hour##시간###I study for an hour.####나는 한 시간 공부합니다.
+bad##나쁜###This is a bad idea.####이것은 나쁜 생각입니다.
+cloud##구름###The cloud is white.####구름이 하얗습니다.
+dress##드레스###She wears a dress.####그녀는 드레스를 입습니다.
+flag##깃발###The flag is waving.####깃발이 펄럭입니다.
+work##일하다###I work every day.####나는 매일 일합니다.
+cheap##싼###This bag is cheap.####이 가방은 쌉니다.
+blue##파란###The sky is blue.####하늘은 파랗습니다.
+learn##배우다###I learn English.####나는 영어를 배웁니다.
+with##~와 함께###Come with me.####나와 함께 오세요.
+already##이미###I already know.####나는 이미 알고 있습니다.
+sun##태양###The sun is bright.####태양이 밝습니다.
+street##거리###The street is busy.####거리가 붐빕니다.
+water##물###Please drink water.####물을 마시세요.
+never##결코 ~않다###I never lie.####나는 결코 거짓말하지 않습니다.
+paint##칠하다###Let's paint the wall.####벽을 칠해 봅시다.
+sleep##자다###I sleep early.####나는 일찍 잡니다.
+garden##정원###The flowers grow in the garden.####꽃이 정원에서 자랍니다.
+change##바꾸다###We change the plan.####우리는 계획을 바꿉니다.
+drive##운전하다###I drive a car.####나는 자동차를 운전합니다.
+woman##여자###The woman is kind.####그 여자는 친절합니다.
+library##도서관###I read in the library.####나는 도서관에서 책을 읽습니다.
+delicious##맛있는###The cake is delicious.####케이크가 맛있습니다.
+sugar##설탕###I need some sugar.####설탕이 조금 필요합니다.
+train##기차###The train is fast.####기차는 빠릅니다.
+moon##달###The moon is beautiful.####달이 아름답습니다.
+grow##자라다###Flowers grow quickly.####꽃이 빨리 자랍니다.
+run##달리다###I run every morning.####나는 매일 아침 달립니다.
+cousin##사촌###My cousin is funny.####내 사촌은 재미있습니다.
+just##방금###I just arrived.####나는 방금 도착했습니다.
+handsome##잘생긴###He is handsome.####그는 잘생겼습니다.
+exam##시험###My exam is today.####오늘 시험이 있습니다.
+game##게임###Let's play a game.####게임을 합시다.
+crazy##미친###That is a crazy idea.####그것은 엉뚱한 생각입니다.
+pocket##주머니###My keys are in my pocket.####내 열쇠는 주머니에 있습니다.
+ice##얼음###The ice is cold.####얼음은 차갑습니다.
+scissors##가위###Use the scissors carefully.####가위를 조심해서 사용하세요.
+frog##개구리###The frog can jump.####개구리는 뛸 수 있습니다.
+cold##추운###Today is very cold.####오늘은 매우 춥습니다.
+should##~해야 한다###You should study.####너는 공부해야 합니다.
+kitchen##부엌###My mother is in the kitchen.####어머니는 부엌에 계십니다.
+deep##깊은###The river is deep.####강이 깊습니다.
+under##~아래에###The cat is under the table.####고양이가 탁자 아래에 있습니다.
+basket##바구니###Put the apples in the basket.####사과를 바구니에 넣으세요.
+choose##고르다###Choose one.####하나를 고르세요.
+captain##선장###The captain is brave.####선장은 용감합니다.
+building##건물###That building is tall.####저 건물은 높습니다.
+cap##모자###This cap is blue.####이 모자는 파란색입니다.
+how##어떻게###How are you?####잘 지내세요?
+body##몸###Wash your body.####몸을 씻으세요.
+city##도시###I live in the city.####나는 도시에 삽니다.
+dry##마른###The towel is dry.####수건이 말랐습니다.
+pretty##예쁜###The flower is pretty.####꽃이 예쁩니다.
+rainbow##무지개###Look at the rainbow.####무지개를 보세요.
+understand##이해하다###I understand you.####나는 당신을 이해합니다.
+giraffe##기린###The giraffe is tall.####기린은 키가 큽니다.
+yesterday##어제###I saw him yesterday.####나는 어제 그를 봤습니다.
+introduce##소개하다###Let me introduce myself.####제 소개를 하겠습니다.
+triangle##삼각형###Draw a triangle.####삼각형을 그리세요.
+sky##하늘###The sky is blue.####하늘은 파랗습니다.
+box##상자###Open the box.####상자를 열어 보세요.
+flower##꽃###The flower is beautiful.####꽃이 아름답습니다.
+pig##돼지###The pig is pink.####돼지는 분홍색입니다.
+put##놓다###Put the book here.####책을 여기에 놓으세요.
+shop##가게###I go to the shop.####나는 가게에 갑니다.
+visit##방문하다###We visit our grandparents.####우리는 조부모님을 방문합니다.
+group##그룹###Our group is ready.####우리 조는 준비되었습니다.
+nose##코###Touch your nose.####코를 만져 보세요.
+again##다시###Please say it again.####다시 말해 주세요.
+summer##여름###Summer is hot.####여름은 덥습니다.
+open##열다###Open the window.####창문을 여세요.
+rabbit##토끼###The rabbit is cute.####토끼는 귀엽습니다.
+of##~의###The color of the sky is blue.####하늘의 색은 파랗습니다.
+sing##노래하다###Let's sing together.####함께 노래합시다.
+new##새로운###I have a new bag.####나는 새 가방이 있습니다.
+cute##귀여운###The puppy is cute.####강아지는 귀엽습니다.
+color##색###What color is it?####그것은 무슨 색인가요?
+grandmother##할머니###I love my grandmother.####나는 할머니를 사랑합니다.
+where##어디###Where are you?####당신은 어디에 있나요?
+gold##금###The ring is gold.####반지는 금입니다.
+study##공부하다###I study English.####나는 영어를 공부합니다.
+all##모든###All the students are here.####모든 학생이 여기 있습니다.
+heavy##무거운###The bag is heavy.####가방이 무겁습니다.
+tower##탑###The tower is tall.####탑이 높습니다.
+trip##여행###Our trip was fun.####우리 여행은 즐거웠습니다.
+juice##주스###I drink orange juice.####나는 오렌지 주스를 마십니다.
+light##빛###Turn on the light.####불을 켜세요.
+act##행동하다###Please act kindly.####친절하게 행동하세요.
+basketball##농구###I play basketball.####나는 농구를 합니다.
+lion##사자###The lion is strong.####사자는 강합니다.
+week##주###I study every week.####나는 매주 공부합니다.
+hungry##배고픈###I am hungry.####나는 배고픕니다.
+begin##시작하다###Let's begin now.####지금 시작합시다.
+shoulder##어깨###My shoulder hurts.####어깨가 아픕니다.
+family##가족###I love my family.####나는 가족을 사랑합니다.
+egg##달걀###I eat an egg.####나는 달걀을 먹습니다.
+bear##곰###The bear is big.####곰은 큽니다.
+crown##왕관###The king wears a crown.####왕은 왕관을 씁니다.
+call##전화하다###Please call me.####저에게 전화하세요.
+sea##바다###The sea is blue.####바다는 파랗습니다.
+shoe##신발###My shoes are new.####내 신발은 새것입니다.
+right##오른쪽###Turn right here.####여기서 오른쪽으로 도세요.
+daughter##딸###She is my daughter.####그녀는 내 딸입니다.
+watch##보다###We watch TV.####우리는 TV를 봅니다.
+curtain##커튼###Open the curtain.####커튼을 여세요.
+bathroom##욕실###The bathroom is clean.####욕실이 깨끗합니다.
+between##~사이에###The ball is between the boxes.####공이 상자 사이에 있습니다.
+eye##눈###Close your eyes.####눈을 감으세요.
+about##~에 대해###We talk about school.####우리는 학교에 대해 이야기합니다.
+bell##종###The bell is ringing.####종이 울리고 있습니다.
+leave##떠나다###I leave home early.####나는 일찍 집을 떠납니다.
+test##시험###The test is easy.####시험은 쉽습니다.
+green##초록색###The leaves are green.####잎은 초록색입니다.
+girl##소녀###The girl is smiling.####소녀가 미소 짓고 있습니다.
+bedroom##침실###My bedroom is quiet.####내 침실은 조용합니다.
+night##밤###Good night.####안녕히 주무세요.
+beautiful##아름다운###The flower is beautiful.####꽃이 아름답습니다.
+send##보내다###Please send the email.####이메일을 보내 주세요.
+science##과학###Science is interesting.####과학은 흥미롭습니다.
+low##낮은###The table is low.####탁자가 낮습니다.
+or##또는###Tea or coffee?####차 또는 커피?
+fire##불###The fire is hot.####불은 뜨겁습니다.
+cookie##쿠키###I eat a cookie.####나는 쿠키를 먹습니다.
+hot##뜨거운###The soup is hot.####수프가 뜨겁습니다.
+wash##씻다###Wash your hands.####손을 씻으세요.
+duck##오리###The duck can swim.####오리는 수영할 수 있습니다.
+sleepy##졸린###I am sleepy.####나는 졸립니다.
+always##항상###I always smile.####나는 항상 웃습니다.
+brown##갈색###The bear is brown.####곰은 갈색입니다.
+toothbrush##칫솔###This is my toothbrush.####이것은 내 칫솔입니다.
+hobby##취미###Reading is my hobby.####독서는 내 취미입니다.
+boy##소년###The boy is happy.####소년은 행복합니다.
+cup##컵###The cup is full.####컵이 가득 차 있습니다.
+hand##손###Raise your hand.####손을 드세요.
+ask##묻다###Please ask me.####저에게 물어보세요.
+fine##좋은###I am fine.####저는 잘 지냅니다.
+little##작은###I have a little dog.####나는 작은 개가 있습니다.
+king##왕###The king is wise.####왕은 지혜롭습니다.
+afternoon##오후###Good afternoon.####안녕하세요.
+bird##새###The bird can fly.####새는 날 수 있습니다.
+swim##수영하다###I can swim.####나는 수영할 수 있습니다.
+wedding##결혼식###The wedding is beautiful.####결혼식이 아름답습니다.
+subject##과목###Math is my favorite subject.####수학은 내가 가장 좋아하는 과목입니다.
+ear##귀###My ear hurts.####귀가 아픕니다.
+evening##저녁###Good evening.####안녕하세요.
+ship##배###The ship is big.####배가 큽니다.
+pilot##조종사###The pilot is brave.####조종사는 용감합니다.
+white##하얀###The snow is white.####눈은 하얗습니다.
+line##줄###Stand in a line.####줄을 서세요.
+walk##걷다###I walk to school.####나는 걸어서 학교에 갑니다.
+hope##희망하다###I hope so.####저도 그렇게 바랍니다.
+left##왼쪽###Turn left here.####여기서 왼쪽으로 도세요.
+puppy##강아지###The puppy is cute.####강아지는 귀엽습니다.
+weekend##주말###Have a nice weekend.####즐거운 주말 보내세요.
+behind##~뒤에###The tree is behind the house.####나무가 집 뒤에 있습니다.
+car##자동차###This is my car.####이것은 내 자동차입니다.
+bee##벌###The bee is busy.####벌은 바쁩니다.
+air##공기###The air is fresh.####공기가 상쾌합니다.
+touch##만지다###Don't touch it.####그것을 만지지 마세요.
+size##크기###What size do you want?####어떤 크기를 원하나요?
+homework##숙제###I finish my homework.####나는 숙제를 끝냅니다.
+morning##아침###Good morning.####좋은 아침입니다.
+foot##발###My foot hurts.####발이 아픕니다.
+town##마을###This town is quiet.####이 마을은 조용합니다.
+great##훌륭한###You did a great job.####정말 잘했습니다.
+write##쓰다###Write your name.####이름을 쓰세요.
+mirror##거울###Look in the mirror.####거울을 보세요.
+cook##요리하다###I cook dinner.####나는 저녁을 요리합니다.
+monkey##원숭이###The monkey is funny.####원숭이는 재미있습니다.
+farm##농장###My uncle has a farm.####우리 삼촌은 농장을 가지고 있습니다.
+up##위로###Look up.####위를 보세요.
+neck##목###My neck is sore.####목이 아픕니다.
+dish##접시###Wash the dish.####접시를 씻으세요.
+finish##끝내다###I finish my work.####나는 일을 끝냅니다.
+nice##좋은###Have a nice day.####좋은 하루 보내세요.
+soccer##축구###We play soccer.####우리는 축구를 합니다.
+after##~후에###Let's meet after school.####학교가 끝난 후 만나요.
+airport##공항###We are at the airport.####우리는 공항에 있습니다.
+strawberry##딸기###I like strawberries.####나는 딸기를 좋아합니다.
+bridge##다리###We walk across the bridge.####우리는 다리를 건넙니다.
+kite##연###The kite is flying.####연이 하늘을 날고 있습니다.
+door##문###Please open the door.####문을 열어 주세요.
+apple##사과###I eat an apple.####나는 사과를 먹습니다.
+money##돈###I need some money.####나는 돈이 조금 필요합니다.
+both##둘 다###Both are good.####둘 다 좋습니다.
+milk##우유###I drink milk.####나는 우유를 마십니다.
+smile##미소 짓다###Please smile.####미소 지어 주세요.
+hold##잡다###Hold my hand.####내 손을 잡으세요.
+also##또한###I also like music.####나도 음악을 좋아합니다.
+sport##운동###Sport is fun.####운동은 재미있습니다.
+classmate##반 친구###He is my classmate.####그는 내 반 친구입니다.
+glass##유리잔###The glass is full.####유리잔이 가득 차 있습니다.
+animal##동물###The animal is cute.####그 동물은 귀엽습니다.
+month##달###A month has four weeks.####한 달은 4주입니다.
+bake##굽다###We bake bread.####우리는 빵을 굽습니다.
+ruler##자###Use a ruler.####자를 사용하세요.
+tennis##테니스###I play tennis.####나는 테니스를 칩니다.
+ugly##못생긴###The monster is ugly.####괴물은 못생겼습니다.
+kind##친절한###She is kind.####그녀는 친절합니다.
+hill##언덕###We climb the hill.####우리는 언덕을 오릅니다.
+balloon##풍선###The balloon is red.####풍선은 빨간색입니다.
+table##탁자###The book is on the table.####책이 탁자 위에 있습니다.
+remember##기억하다###I remember your name.####나는 당신의 이름을 기억합니다.
+cow##소###The cow eats grass.####소는 풀을 먹습니다.
+smell##냄새가 나다###The flowers smell nice.####꽃에서 좋은 향기가 납니다.
+draw##그리다###I draw a picture.####나는 그림을 그립니다.
+red##빨간###The apple is red.####사과는 빨갛습니다.
+place##장소###This is a nice place.####이곳은 좋은 장소입니다.
+hospital##병원###She works at a hospital.####그녀는 병원에서 일합니다.
+arm##팔###Raise your arm.####팔을 들어 보세요.
+bike##자전거###I ride my bike.####나는 자전거를 탑니다.
+date##날짜###What is the date today?####오늘 날짜가 어떻게 되나요?
+young##젊은###She is young.####그녀는 젊습니다.
+grass##풀###The grass is green.####풀은 초록색입니다.
+beside##~옆에###Sit beside me.####내 옆에 앉으세요.
+pink##분홍색###The flower is pink.####꽃은 분홍색입니다.
+warm##따뜻한###The soup is warm.####수프가 따뜻합니다.
+boat##배###The boat is on the lake.####배가 호수에 있습니다.
+love##사랑하다###I love my family.####나는 가족을 사랑합니다.
+wait##기다리다###Please wait here.####여기서 기다려 주세요.
+snack##간식###I eat a snack.####나는 간식을 먹습니다.
+year##년###This year is special.####올해는 특별합니다.
+close##닫다###Please close the door.####문을 닫아 주세요.
+before##~전에###Wash your hands before dinner.####저녁 먹기 전에 손을 씻으세요.
+zoo##동물원###We visit the zoo.####우리는 동물원에 갑니다.
+map##지도###Look at the map.####지도를 보세요.
+sound##소리###I hear a strange sound.####나는 이상한 소리를 듣습니다.
+book##책###I read a book.####나는 책을 읽습니다.
+listen##듣다###Listen to me.####내 말을 들어 보세요.
+mail##우편###I got your mail.####나는 당신의 우편을 받았습니다.
+party##파티###The party is fun.####파티는 즐겁습니다.
+lake##호수###The lake is beautiful.####호수가 아름답습니다.
+thirsty##목마른###I am thirsty.####나는 목이 마릅니다.
+enter##들어가다###Please enter the room.####방으로 들어오세요.
+nurse##간호사###The nurse is kind.####간호사는 친절합니다.
+baseball##야구###I play baseball.####나는 야구를 합니다.
+window##창문###Open the window.####창문을 여세요.
+brave##용감한###The firefighter is brave.####소방관은 용감합니다.
+grandfather##할아버지###I love my grandfather.####나는 할아버지를 사랑합니다.
+bag##가방###This is my bag.####이것은 내 가방입니다.
+cut##자르다###Cut the paper.####종이를 자르세요.
+sock##양말###My sock is clean.####내 양말은 깨끗합니다.
+late##늦은###Don't be late.####늦지 마세요.
+star##별###The star is bright.####별이 밝게 빛납니다.
+now##지금###Come here now.####지금 이리 오세요.
+goal##목표###My goal is clear.####내 목표는 분명합니다.
+meat##고기###I eat meat.####나는 고기를 먹습니다.
+letter##편지###I write a letter.####나는 편지를 씁니다.
+believe##믿다###I believe you.####나는 당신을 믿습니다.
+important##중요한###This is important.####이것은 중요합니다.
+restroom##화장실###Where is the restroom?####화장실이 어디인가요?
+back##뒤###Please come back.####돌아오세요.
+land##땅###The plane will land soon.####비행기가 곧 착륙합니다.
+busy##바쁜###I am busy today.####나는 오늘 바쁩니다.
+snow##눈###Snow is falling.####눈이 내리고 있습니다.
+together##함께###Let's study together.####함께 공부합시다.
+rope##밧줄###Hold the rope.####밧줄을 잡으세요.
+fly##날다###Birds can fly.####새는 날 수 있습니다.
+paper##종이###I need paper.####나는 종이가 필요합니다.
+wrong##틀린###Your answer is wrong.####당신의 답은 틀렸습니다.
+teach##가르치다###They teach English.####그들은 영어를 가르칩니다.
+drink##마시다###Drink some water.####물을 마시세요.
+picture##그림###This picture is beautiful.####이 그림은 아름답습니다.
+head##머리###Touch your head.####머리를 만져 보세요.
+dark##어두운###The room is dark.####방이 어둡습니다.
+ring##반지###The ring is pretty.####반지가 예쁩니다.
+glue##풀###Use the glue.####풀을 사용하세요.
+as##~처럼###He runs as fast as me.####그는 나만큼 빨리 달립니다.
+piano##피아노###She plays the piano.####그녀는 피아노를 칩니다.
+man##남자###The man is kind.####그 남자는 친절합니다.
+ground##땅###The ball is on the ground.####공이 땅에 있습니다.
+poor##가난한###The poor family needs help.####가난한 가족은 도움이 필요합니다.
+orange##오렌지###The orange is sweet.####오렌지는 달콤합니다.
+kick##차다###Kick the ball.####공을 차세요.
+computer##컴퓨터###I use a computer.####나는 컴퓨터를 사용합니다.
+key##열쇠###I found the key.####나는 열쇠를 찾았습니다.
+move##움직이다###Don't move.####움직이지 마세요.
+hit##치다###Hit the ball.####공을 치세요.
+out##밖으로###Go out now.####지금 밖으로 나가세요.
+police##경찰###The police are here.####경찰이 여기 있습니다.
+phone##전화###My phone is new.####내 전화기는 새것입니다.
+coat##외투###Wear your coat.####외투를 입으세요.
+skin##피부###My skin is dry.####내 피부는 건조합니다.
+baby##아기###The baby is sleeping.####아기가 자고 있습니다.
+glad##기쁜###I am glad to see you.####당신을 만나서 기쁩니다.
+watermelon##수박###The watermelon is big.####수박이 큽니다.
+helicopter##헬리콥터###The helicopter is flying.####헬리콥터가 날고 있습니다.
+black##검은###The cat is black.####고양이는 검습니다.
+way##길###This is the right way.####이것이 맞는 길입니다.
+full##가득 찬###The box is full.####상자가 가득 찼습니다.
+circle##원###Draw a circle.####원을 그리세요.
+queen##여왕###The queen is kind.####여왕은 친절합니다.
+fight##싸우다###Don't fight.####싸우지 마세요.
+wind##바람###The wind is strong.####바람이 강합니다.
+down##아래로###Sit down, please.####앉으세요.
+glove##장갑###My glove is warm.####내 장갑은 따뜻합니다.
+marry##결혼하다###They will marry soon.####그들은 곧 결혼합니다.
+button##단추###Button your coat.####외투 단추를 잠그세요.
+potato##감자###I like potatoes.####나는 감자를 좋아합니다.
+think##생각하다###I think so.####저도 그렇게 생각합니다.
+live##살다###I live in Korea.####나는 한국에 삽니다.
+space##우주###Space is amazing.####우주는 놀랍습니다.
+grade##학년###She is in fifth grade.####그녀는 5학년입니다.
+calm##차분한###Stay calm.####침착하세요.
+lesson##수업###Today's lesson is fun.####오늘 수업은 재미있습니다.
+hard##어려운###This question is hard.####이 문제는 어렵습니다.
+floor##바닥###The floor is clean.####바닥이 깨끗합니다.
+quickly##빨리###Run quickly.####빨리 달리세요.
+decide##결정하다###I decide to study.####나는 공부하기로 결정합니다.
+person##사람###He is a kind person.####그는 친절한 사람입니다.
+across##~건너편에###The bank is across the street.####은행은 길 건너편에 있습니다.
+use##사용하다###I use a computer.####나는 컴퓨터를 사용합니다.
+lazy##게으른###Don't be lazy.####게으르지 마세요.
+free##자유로운###I am free today.####나는 오늘 한가합니다.
+habit##습관###Reading is a good habit.####독서는 좋은 습관입니다.
+turn##돌다###Turn left here.####여기서 왼쪽으로 도세요.
+calendar##달력###Look at the calendar.####달력을 보세요.
+often##자주###I often read books.####나는 자주 책을 읽습니다.
+bright##밝은###The room is bright.####방이 밝습니다.
+take##가지다###Take this book.####이 책을 가져가세요.
+perfect##완벽한###Your answer is perfect.####당신의 답은 완벽합니다.
+museum##박물관###We visit the museum.####우리는 박물관을 방문합니다.
+country##나라###Korea is a beautiful country.####한국은 아름다운 나라입니다.
+fun##재미###Learning is fun.####배우는 것은 재미있습니다.
+idea##생각###That is a good idea.####그것은 좋은 생각입니다.
+show##보여주다###Show me your picture.####당신의 그림을 보여 주세요.
+bored##지루한###I am bored.####나는 지루합니다.
+thank##감사하다###Thank you very much.####정말 감사합니다.
+sand##모래###The sand is soft.####모래는 부드럽습니다.
+curious##호기심 많은###The child is curious.####그 아이는 호기심이 많습니다.
+bookstore##서점###I go to the bookstore.####나는 서점에 갑니다.
+fashion##패션###She likes fashion.####그녀는 패션을 좋아합니다.
+catch##잡다###Catch the ball.####공을 잡으세요.
+easily##쉽게###I can do it easily.####나는 그것을 쉽게 할 수 있습니다.
+front##앞###Stand in front of me.####내 앞에 서세요.
+win##이기다###We win the game.####우리는 경기에서 이깁니다.
+ocean##바다###The ocean is beautiful.####바다는 아름답습니다.
+honest##정직한###He is honest.####그는 정직합니다.
+climb##오르다###We climb the mountain.####우리는 산을 오릅니다.
+neighbor##이웃###My neighbor is kind.####우리 이웃은 친절합니다.
+god##하나님###God loves us.####하나님은 우리를 사랑하십니다.
+because##왜냐하면###I am happy because you came.####네가 와서 나는 행복합니다.
+break##부수다###Don't break the glass.####유리잔을 깨뜨리지 마세요.
+match##경기###The match was exciting.####경기는 흥미진진했습니다.
+expensive##비싼###This bag is expensive.####이 가방은 비쌉니다.
+camp##캠프###We go to camp.####우리는 캠프에 갑니다.
+popular##인기 있는###She is popular.####그녀는 인기가 많습니다.
+wear##입다###I wear a coat.####나는 외투를 입습니다.
+bill##지폐###I have a ten-dollar bill.####나는 10달러 지폐가 있습니다.
+cry##울다###The baby is crying.####아기가 울고 있습니다.
+island##섬###Jeju is a beautiful island.####제주는 아름다운 섬입니다.
+address##주소###Write your address.####주소를 쓰세요.
+hundred##백###One hundred students are here.####100명의 학생이 여기 있습니다.
+funny##재미있는###The story is funny.####그 이야기는 재미있습니다.
+fat##뚱뚱한###The pig is fat.####돼지는 뚱뚱합니다.
+sell##팔다###They sell fruit.####그들은 과일을 팝니다.
+around##주변에###Look around.####주변을 둘러보세요.
+plan##계획###We make a plan.####우리는 계획을 세웁니다.
+engineer##엔지니어###My father is an engineer.####우리 아버지는 엔지니어입니다.
+sit##앉다###Please sit down.####앉으세요.
+cash##현금###I pay in cash.####나는 현금으로 계산합니다.
+lovely##사랑스러운###She has a lovely smile.####그녀는 사랑스러운 미소를 가지고 있습니다.
+create##만들다###We create a new plan.####우리는 새로운 계획을 만듭니다.
+scary##무서운###The movie is scary.####그 영화는 무섭습니다.
+theater##극장###We go to the theater.####우리는 극장에 갑니다.
+borrow##빌리다###I borrow a book.####나는 책을 빌립니다.
+mistake##실수###I made a mistake.####나는 실수했습니다.
+forest##숲###The forest is quiet.####숲은 조용합니다.
+without##~없이###I can't live without water.####나는 물 없이 살 수 없습니다.
+memory##기억###I have a good memory.####나는 기억력이 좋습니다.
+bug##벌레###The bug is small.####벌레는 작습니다.
+hear##듣다###I can hear you.####나는 당신의 말을 들을 수 있습니다.
+cage##우리###The bird is in the cage.####새가 우리 안에 있습니다.
+past##과거###The past is gone.####과거는 지나갔습니다.
+brush##솔###Use a brush.####솔을 사용하세요.
+try##시도하다###Try again.####다시 시도하세요.
+next##다음###See you next week.####다음 주에 만나요.
+beach##해변###We walk on the beach.####우리는 해변을 걷습니다.
+tail##꼬리###The dog has a long tail.####그 개는 긴 꼬리를 가지고 있습니다.
+early##일찍###I get up early.####나는 일찍 일어납니다.
+example##예###This is a good example.####이것은 좋은 예입니다.
+fall##떨어지다###Leaves fall in autumn.####가을에는 나뭇잎이 떨어집니다.
+problem##문제###I can solve the problem.####나는 그 문제를 해결할 수 있습니다.
+life##삶###Life is beautiful.####삶은 아름답습니다.
+build##짓다###They build a house.####그들은 집을 짓습니다.
+ride##타다###I ride a bike.####나는 자전거를 탑니다.
+weak##약한###He is still weak.####그는 아직 약합니다.
+laugh##웃다###We laugh together.####우리는 함께 웃습니다.
+office##사무실###My office is clean.####내 사무실은 깨끗합니다.
+stick##막대기###Pick up the stick.####막대기를 집으세요.
+serious##심각한###This is a serious problem.####이것은 심각한 문제입니다.
+loud##시끄러운###The music is loud.####음악 소리가 큽니다.
+pumpkin##호박###The pumpkin is big.####호박이 큽니다.
+pool##수영장###We swim in the pool.####우리는 수영장에서 수영합니다.
+until##~까지###Wait until tomorrow.####내일까지 기다리세요.
+keep##유지하다###Keep the door closed.####문을 닫아 두세요.
+thing##것###This is my favorite thing.####이것은 내가 가장 좋아하는 것입니다.
+church##교회###We go to church.####우리는 교회에 갑니다.
+join##참가하다###Join our team.####우리 팀에 참가하세요.
+mad##화난###He is mad.####그는 화가 났습니다.
+weight##무게###What is your weight?####당신의 몸무게는 얼마인가요?
+die##죽다###Plants die without water.####식물은 물이 없으면 죽습니다.
+sure##확실한###I am sure.####나는 확신합니다.
+festival##축제###The festival is fun.####축제는 즐겁습니다.
+first##첫 번째###I am first.####나는 첫 번째입니다.
+heart##심장###My heart is healthy.####내 심장은 건강합니다.
+strange##이상한###That sound is strange.####그 소리는 이상합니다.
+race##경주###The race begins now.####경주가 지금 시작됩니다.
+garbage##쓰레기###Throw away the garbage.####쓰레기를 버리세요.
+let##~하게 하다###Let me help you.####제가 도와드리겠습니다.
+nail##손톱###Cut your nails.####손톱을 깎으세요.
+above##~위에###The picture is above the table.####그림이 탁자 위에 있습니다.
+robot##로봇###The robot can walk.####로봇은 걸을 수 있습니다.
+station##역###The station is nearby.####역이 가까이에 있습니다.
+lonely##외로운###I feel lonely.####나는 외롭습니다.
+pick##고르다###Pick one.####하나를 고르세요.
+palace##궁전###The palace is beautiful.####궁전이 아름답습니다.
+ghost##유령###The ghost is scary.####유령은 무섭습니다.
+fantastic##환상적인###Your idea is fantastic.####당신의 생각은 환상적입니다.
+speak##말하다###Please speak slowly.####천천히 말해 주세요.
+top##맨 위###The book is on the top shelf.####책이 맨 위 선반에 있습니다.
+beef##소고기###I like beef.####나는 소고기를 좋아합니다.
+worry##걱정하다###Don't worry.####걱정하지 마세요.
+hero##영웅###He is my hero.####그는 나의 영웅입니다.
+careful##조심하는###Be careful.####조심하세요.
+wood##나무###The table is made of wood.####탁자는 나무로 만들어졌습니다.
+score##점수###My score is high.####내 점수는 높습니다.
+rest##쉬다###Let's take a rest.####잠깐 쉽시다.
+follow##따라가다###Follow me.####저를 따라오세요.
+copy##복사하다###Copy this sentence.####이 문장을 따라 쓰세요.
+fence##울타리###The fence is white.####울타리는 하얗습니다.
+home##집###I am home.####나는 집에 있습니다.
+fan##선풍기###Turn on the fan.####선풍기를 켜세요.
+difficult##어려운###This question is difficult.####이 문제는 어렵습니다.
+salt##소금###Add some salt.####소금을 조금 넣으세요.
+push##밀다###Push the door.####문을 미세요.
+upset##속상한###She is upset.####그녀는 속상합니다.
+safe##안전한###This place is safe.####이곳은 안전합니다.
+fix##고치다###I can fix it.####나는 그것을 고칠 수 있습니다.
+contest##대회###She won the contest.####그녀는 대회에서 우승했습니다.
+hate##싫어하다###I hate spiders.####나는 거미를 싫어합니다.
+badminton##배드민턴###We play badminton.####우리는 배드민턴을 합니다.
+almost##거의###I am almost ready.####나는 거의 준비되었습니다.
+wife##아내###His wife is kind.####그의 아내는 친절합니다.
+fact##사실###That is a fact.####그것은 사실입니다.
+talk##이야기하다###Let's talk together.####함께 이야기합시다.
+artist##예술가###She is an artist.####그녀는 예술가입니다.
+hang##걸다###Hang your coat here.####여기에 외투를 거세요.
+background##배경###The background is blue.####배경은 파란색입니다.
+cover##덮다###Please cover the box.####상자를 덮어 주세요.
+jeans##청바지###I wear blue jeans.####나는 파란 청바지를 입습니다.
+special##특별한###Today is a special day.####오늘은 특별한 날입니다.
+health##건강###Health is important.####건강은 중요합니다.
+bottle##병###The bottle is empty.####병이 비어 있습니다.
+role##역할###She has an important role.####그녀는 중요한 역할을 맡고 있습니다.
+bring##가져오다###Please bring your book.####책을 가져오세요.
+curly##곱슬인###She has curly hair.####그녀는 곱슬머리입니다.
+stair##계단###Go up the stairs.####계단을 올라가세요.
+couple##한 쌍###The couple is happy.####그 부부는 행복합니다.
+guess##추측하다###Can you guess?####맞혀 보세요.
+backpack##배낭###My backpack is heavy.####내 배낭은 무겁습니다.
+ready##준비된###I am ready.####저는 준비되었습니다.
+desert##사막###The desert is hot.####사막은 덥습니다.
+rule##규칙###Follow the rules.####규칙을 지키세요.
+by##~옆에###Sit by me.####내 옆에 앉으세요.
+crowd##군중###A crowd is waiting.####많은 사람들이 기다리고 있습니다.
+grape##포도###I like grapes.####나는 포도를 좋아합니다.
+return##돌아오다###Please return soon.####곧 돌아오세요.
+coin##동전###I found a coin.####나는 동전을 찾았습니다.
+must##~해야 한다###You must study.####너는 공부해야 합니다.
+business##사업###His business is growing.####그의 사업은 성장하고 있습니다.
+nervous##긴장한###I feel nervous.####나는 긴장됩니다.
+battery##배터리###The battery is low.####배터리가 부족합니다.
+rice##쌀###We eat rice every day.####우리는 매일 밥을 먹습니다.
+death##죽음###Death is a part of life.####죽음은 삶의 일부입니다.
+cross##건너다###Cross the street carefully.####길을 조심해서 건너세요.
+human##인간###Humans need water.####인간은 물이 필요합니다.
+colorful##형형색색의###The flowers are colorful.####꽃들이 알록달록합니다.
+shower##샤워###I take a shower.####나는 샤워를 합니다.
+may##~해도 된다###May I come in?####들어가도 될까요?
+base##기지###The base is nearby.####기지가 가까이에 있습니다.
+enjoy##즐기다###I enjoy reading.####나는 독서를 즐깁니다.
+village##마을###The village is quiet.####그 마을은 조용합니다.
+traditional##전통적인###This is a traditional food.####이것은 전통 음식입니다.
+writer##작가###She is a famous writer.####그녀는 유명한 작가입니다.
+against##~에 반대하여###Don't lean against the wall.####벽에 기대지 마세요.
+mind##마음###Open your mind.####마음을 열어 보세요.
+sentence##문장###Read the sentence.####문장을 읽으세요.
+strong##강한###He is very strong.####그는 매우 강합니다.
+away##멀리###The bird flew away.####새가 멀리 날아갔습니다.
+information##정보###I need more information.####나는 더 많은 정보가 필요합니다.
+heat##열###The heat is strong.####열기가 강합니다.
+prize##상###She won the prize.####그녀는 상을 받았습니다.
+travel##여행하다###I love to travel.####나는 여행을 좋아합니다.
+center##중앙###Meet me at the center.####중앙에서 만나요.
+boss##상사###My boss is kind.####내 상사는 친절합니다.
+newspaper##신문###My father reads the newspaper.####아버지는 신문을 읽으십니다.
+need##필요하다###I need your help.####나는 당신의 도움이 필요합니다.
+last##마지막###This is the last page.####이것이 마지막 페이지입니다.
+wonderful##멋진###We had a wonderful day.####우리는 멋진 하루를 보냈습니다.
+nothing##아무것도###I have nothing.####나는 아무것도 없습니다.
+stadium##경기장###The stadium is huge.####경기장이 매우 큽니다.
+file##파일###Open the file.####파일을 여세요.
+tell##말하다###Please tell me.####저에게 말해 주세요.
+form##양식###Fill out the form.####양식을 작성하세요.
+large##큰###The house is large.####그 집은 큽니다.
+ticket##표###I bought a ticket.####나는 표를 샀습니다.
+forget##잊다###Don't forget your bag.####가방을 잊지 마세요.
+shake##흔들다###Shake the bottle.####병을 흔드세요.
+sweet##달콤한###This candy is sweet.####이 사탕은 달콤합니다.
+fry##튀기다###Let's fry the potatoes.####감자를 튀겨 봅시다.
+bomb##폭탄###The bomb is dangerous.####폭탄은 위험합니다.
+along##~을 따라###We walked along the river.####우리는 강을 따라 걸었습니다.
+reporter##기자###The reporter asked questions.####기자가 질문했습니다.
+however##하지만###However, I still tried.####하지만 나는 계속 노력했습니다.
+club##동아리###I joined the music club.####나는 음악 동아리에 가입했습니다.
+blood##피###Blood is red.####피는 빨갛습니다.
+real##진짜의###This is a real story.####이것은 실화입니다.
+same##같은###We have the same bag.####우리는 같은 가방을 가지고 있습니다.
+subway##지하철###I take the subway.####나는 지하철을 탑니다.
+mathematics##수학###Mathematics is interesting.####수학은 흥미롭습니다.
+fill##채우다###Fill the bottle with water.####병에 물을 채우세요.
+oil##기름###Add a little oil.####기름을 조금 넣으세요.
+lady##여성###The lady is smiling.####그 여성은 미소 짓고 있습니다.
+hurry##서두르다###Hurry up, please.####서둘러 주세요.
+control##조절하다###Control your speed.####속도를 조절하세요.
+vegetable##채소###Eat more vegetables.####채소를 더 많이 드세요.
+carry##옮기다###Can you carry this box?####이 상자를 옮겨 줄 수 있나요?
+bottom##바닥###Look at the bottom.####바닥을 보세요.
+danger##위험###There is danger ahead.####앞에 위험이 있습니다.
+giant##거대한###The giant is very tall.####거인은 매우 큽니다.
+enough##충분한###I have enough time.####나는 시간이 충분합니다.
+gentleman##신사###The gentleman opened the door.####신사가 문을 열어 주었습니다.
+spicy##매운###This soup is spicy.####이 수프는 맵습니다.
+nature##자연###I love nature.####나는 자연을 사랑합니다.
+order##주문하다###I'd like to order lunch.####점심을 주문하고 싶습니다.
+wall##벽###The picture is on the wall.####그림이 벽에 걸려 있습니다.
+terrible##끔찍한###The weather is terrible.####날씨가 끔찍합니다.
+congratulate##축하하다###I congratulate you.####축하합니다.
+twice##두 번###Read it twice.####두 번 읽으세요.
+fever##열###I have a fever.####나는 열이 있습니다.
+empty##빈###The box is empty.####상자가 비어 있습니다.
+lose##잃다###Don't lose your key.####열쇠를 잃어버리지 마세요.
+speed##속도###Slow down your speed.####속도를 줄이세요.
+salty##짠###The soup is salty.####수프가 짭니다.
+noodle##국수###I eat noodles.####나는 국수를 먹습니다.
+main##주요한###This is the main road.####이곳은 큰길입니다.
+design##디자인###I like this design.####나는 이 디자인이 마음에 듭니다.
+accent##억양###Her English accent is clear.####그녀의 영어 억양은 분명합니다.
+fresh##신선한###The vegetables are fresh.####채소가 신선합니다.
+elementary##초등의###He is an elementary student.####그는 초등학생입니다.
+east##동쪽###The sun rises in the east.####해는 동쪽에서 뜹니다.
+invite##초대하다###I invite my friend.####나는 친구를 초대합니다.
+kid##아이###The kid is smiling.####아이가 웃고 있습니다.
+future##미래###The future is bright.####미래는 밝습니다.
+below##~아래에###The bag is below the table.####가방이 탁자 아래에 있습니다.
+thousand##천###One thousand people came.####천 명이 왔습니다.
+type##유형###What type is it?####어떤 종류인가요?
+face##얼굴###Wash your face.####얼굴을 씻으세요.
+gesture##몸짓###His gesture was funny.####그의 몸짓은 재미있었습니다.
+mix##섞다###Mix the water and juice.####물과 주스를 섞으세요.
+brake##브레이크###Use the brake carefully.####브레이크를 조심해서 사용하세요.
+excited##신나는###I am excited.####나는 신이 납니다.
+gate##문###Open the gate.####문을 여세요.
+cycle##순환###The water cycle is important.####물의 순환은 중요합니다.
+brand##브랜드###This brand is famous.####이 브랜드는 유명합니다.
+field##들판###Children play in the field.####아이들이 들판에서 놉니다.
+shout##외치다###Don't shout.####소리치지 마세요.
+north##북쪽###The wind comes from the north.####바람이 북쪽에서 붑니다.
+middle##가운데###Stand in the middle.####가운데에 서세요.
+medicine##약###Take your medicine.####약을 드세요.
+present##선물###This present is for you.####이 선물은 당신을 위한 것입니다.
+throw##던지다###Throw the ball.####공을 던지세요.
+far##먼###My school is far away.####내 학교는 멉니다.
+bakery##빵집###We buy bread at the bakery.####우리는 빵집에서 빵을 삽니다.
+west##서쪽###The sun sets in the west.####해는 서쪽으로 집니다.
+become##~이 되다###I want to become a teacher.####나는 선생님이 되고 싶습니다.
+wild##야생의###The wild animals are free.####야생 동물은 자유롭습니다.
+if##만약###Call me if you need help.####도움이 필요하면 나를 부르세요.
+protect##보호하다###We protect nature.####우리는 자연을 보호합니다.
+castle##성###The castle is beautiful.####성은 아름답습니다.
+bat##박쥐###The bat flies at night.####박쥐는 밤에 납니다.
+reason##이유###Tell me the reason.####이유를 말해 주세요.
+leaf##잎###The leaf is green.####잎은 초록색입니다.
+amazing##놀라운###The show is amazing.####그 공연은 놀랍습니다.
+power##힘###Knowledge is power.####지식은 힘입니다.
+grandparent##조부모###My grandparents love me.####조부모님은 나를 사랑하십니다.
+spend##쓰다###I spend time reading.####나는 독서하며 시간을 보냅니다.
+bite##물다###The dog did not bite me.####개는 나를 물지 않았습니다.
+pear##배###I eat a pear.####나는 배를 먹습니다.
+chance##기회###This is your chance.####이것은 당신의 기회입니다.
+taste##맛###The soup tastes good.####수프 맛이 좋습니다.
+end##끝###This is the end.####이것이 끝입니다.
+straight##곧장###Go straight.####곧장 가세요.
+adult##어른###He is an adult.####그는 어른입니다.
+world##세계###The world is big.####세상은 넓습니다.
+different##다른###We have different ideas.####우리는 서로 다른 생각을 가지고 있습니다.
+actor##배우###He is a famous actor.####그는 유명한 배우입니다.
+headache##두통###I have a headache.####나는 두통이 있습니다.
+roof##지붕###The roof is red.####지붕은 빨간색입니다.
+add##더하다###Add two and three.####2와 3을 더하세요.
+exit##출구###The exit is over there.####출구는 저쪽에 있습니다.
+during##~동안###Don't talk during class.####수업 중에는 말하지 마세요.
+only##오직###Only you can do it.####오직 당신만 할 수 있습니다.
+huge##거대한###The elephant is huge.####코끼리는 매우 큽니다.
+burn##타다###Be careful not to burn yourself.####화상을 입지 않도록 조심하세요.
+weather##날씨###The weather is nice.####날씨가 좋습니다.
+toothache##치통###I have a toothache.####나는 치통이 있습니다.
+cost##비용###The book costs ten dollars.####그 책은 10달러입니다.
+accident##사고###The accident was serious.####사고는 심각했습니다.
+teenager##십대###The teenager is studying.####그 십대는 공부하고 있습니다.
+drop##떨어뜨리다###Don't drop the glass.####유리잔을 떨어뜨리지 마세요.
+guide##안내하다###The guide showed us around.####가이드가 우리를 안내했습니다.
+bone##뼈###The dog has a bone.####개가 뼈를 가지고 있습니다.
+vacation##휴가###We are on vacation.####우리는 휴가 중입니다.
+collect##모으다###I collect stamps.####나는 우표를 모읍니다.
+clever##영리한###She is clever.####그녀는 영리합니다.
+side##옆###Stand by my side.####내 옆에 서세요.
+agree##동의하다###I agree with you.####나는 당신에게 동의합니다.
+rich##부유한###He is rich.####그는 부유합니다.
+cotton##면###This shirt is made of cotton.####이 셔츠는 면으로 만들어졌습니다.
+astronaut##우주비행사###The astronaut waved.####우주비행사가 손을 흔들었습니다.
+painting##그림###The painting is beautiful.####그 그림은 아름답습니다.
+hunt##사냥하다###Lions hunt at night.####사자는 밤에 사냥합니다.
+pond##연못###The ducks swim in the pond.####오리들이 연못에서 헤엄칩니다.
+dentist##치과의사###The dentist is kind.####치과의사는 친절합니다.
+error##오류###There is an error.####오류가 있습니다.
+pay##지불하다###I pay by card.####나는 카드로 결제합니다.
+stomachache##복통###I have a stomachache.####나는 배가 아픕니다.
+customer##손님###The customer is waiting.####손님이 기다리고 있습니다.
+luck##행운###Good luck!####행운을 빕니다.
+other##다른###I need the other one.####나는 다른 것이 필요합니다.
+bowl##그릇###The bowl is full.####그릇이 가득 차 있습니다.
+then##그다음###Eat, then study.####먹고 나서 공부하세요.
+dangerous##위험한###This road is dangerous.####이 길은 위험합니다.
+lie##눕다###Lie down and rest.####누워서 쉬세요.
+minute##분###Wait a minute.####잠깐만 기다리세요.
+wake##깨다###I wake up early.####나는 일찍 일어납니다.
+purple##보라색###The flower is purple.####꽃은 보라색입니다.
+gym##체육관###I go to the gym.####나는 체육관에 갑니다.
+case##경우###In this case, wait.####이 경우에는 기다리세요.
+wish##바라다###I wish you happiness.####행복을 바랍니다.
+each##각각의###Each student has a book.####각 학생은 책을 가지고 있습니다.
+company##회사###She works for a company.####그녀는 회사에서 일합니다.
+interest##관심###I have an interest in music.####나는 음악에 관심이 있습니다.
+alone##혼자###He lives alone.####그는 혼자 삽니다.
+humor##유머###I like his humor.####나는 그의 유머를 좋아합니다.
+save##구하다###Save your work.####작업을 저장하세요.
+earth##지구###The Earth is beautiful.####지구는 아름답습니다.
+college##대학###My brother goes to college.####형은 대학에 다닙니다.
+meal##식사###We eat a meal together.####우리는 함께 식사합니다.
+double##두 배의###The price is double.####가격이 두 배입니다.
+active##활동적인###She is very active.####그녀는 매우 활동적입니다.
+recycle##재활용하다###Please recycle the bottle.####병을 재활용하세요.
+tie##넥타이###He wears a tie.####그는 넥타이를 맵니다.
+brain##뇌###The brain is important.####뇌는 중요합니다.
+fog##안개###The fog is thick.####안개가 짙습니다.
+parade##퍼레이드###We watched the parade.####우리는 퍼레이드를 봤습니다.
+choice##선택###It is your choice.####그것은 당신의 선택입니다.
+area##지역###This area is quiet.####이 지역은 조용합니다.
+pair##한 쌍###I bought a pair of shoes.####나는 신발 한 켤레를 샀습니다.
+wet##젖은###My shoes are wet.####내 신발이 젖었습니다.
+step##걸음###Take one step forward.####한 걸음 앞으로 가세요.
+nickname##별명###My nickname is Tom.####내 별명은 톰입니다.
+welcome##환영하다###Welcome to our school.####우리 학교에 오신 것을 환영합니다.
+mask##마스크###Wear a mask.####마스크를 쓰세요.
+concert##콘서트###The concert was great.####콘서트는 훌륭했습니다.
+inside##안쪽에###Come inside.####안으로 들어오세요.
+heaven##천국###He believes in heaven.####그는 천국을 믿습니다.
+secret##비밀###Keep it a secret.####그것을 비밀로 하세요.
+communicate##의사소통하다###We communicate by email.####우리는 이메일로 소통합니다.
+cloth##천###The cloth is soft.####천이 부드럽습니다.
+tour##여행###We took a city tour.####우리는 시내 관광을 했습니다.
+lock##잠그다###Lock the door.####문을 잠그세요.
+off##끄다###Turn off the light.####불을 끄세요.
+clear##분명한###The sky is clear.####하늘이 맑습니다.
+history##역사###History is interesting.####역사는 흥미롭습니다.
+share##나누다###Let's share the cake.####케이크를 함께 나눠 먹어요.
+bean##콩###Beans are healthy.####콩은 건강에 좋습니다.
+cartoon##만화###I watch cartoons.####나는 만화를 봅니다.
+serve##제공하다###They serve lunch.####그들은 점심을 제공합니다.
+price##가격###The price is high.####가격이 비쌉니다.
+experience##경험###It was a great experience.####그것은 좋은 경험이었습니다.
+joy##기쁨###The news brought joy.####그 소식은 기쁨을 가져왔습니다.
+cave##동굴###The cave is dark.####동굴은 어둡습니다.
+wonder##궁금해하다###I wonder why.####왜 그런지 궁금합니다.
+pants##바지###My pants are new.####내 바지는 새것입니다.
+stand##서다###Please stand up.####일어나 서세요.
+blank##빈###The page is blank.####그 페이지는 비어 있습니다.
+musician##음악가###She is a talented musician.####그녀는 재능 있는 음악가입니다.
+lucky##운이 좋은###You are lucky.####당신은 운이 좋습니다.
+birth##출생###The baby's birth was joyful.####아기의 출생은 기쁜 일이었습니다.
+plane##비행기###The plane is flying.####비행기가 날고 있습니다.
+creative##창의적인###She has a creative idea.####그녀는 창의적인 생각을 가지고 있습니다.
+focus##집중하다###Focus on your work.####일에 집중하세요.
+piece##조각###I ate a piece of cake.####나는 케이크 한 조각을 먹었습니다.
+ahead##앞에###Go straight ahead.####곧장 앞으로 가세요.
+boot##부츠###These boots are new.####이 부츠는 새것입니다.
+into##~안으로###Come into the room.####방 안으로 들어오세요.
+battle##전투###The battle is over.####전투가 끝났습니다.
+weekly##매주의###We have a weekly meeting.####우리는 매주 회의를 합니다.
+factory##공장###My father works at a factory.####아버지는 공장에서 일하십니다.
+divide##나누다###Divide the cake equally.####케이크를 똑같이 나누세요.
+fail##실패하다###Don't fail to try.####시도하는 것을 포기하지 마세요.
+opinion##의견###Tell me your opinion.####당신의 의견을 말해 주세요.
+engine##엔진###The engine is powerful.####엔진이 강력합니다.
+national##국가의###This is a national park.####이곳은 국립공원입니다.
+mouse##쥐###The mouse is small.####쥐는 작습니다.
+plant##식물###Water the plant.####식물에 물을 주세요.
+peace##평화###We want peace.####우리는 평화를 원합니다.
+advise##조언하다###I advise you to rest.####쉬라고 조언합니다.
+online##온라인으로###We study online.####우리는 온라인으로 공부합니다.
+shape##모양###The shape is round.####모양이 둥급니다.
+care##돌보다###Take care of yourself.####몸을 잘 돌보세요.
+bicycle##자전거###I ride a bicycle.####나는 자전거를 탑니다.
+discuss##논의하다###Let's discuss the plan.####계획을 논의합시다.
+afraid##두려운###I am afraid of dogs.####나는 개가 무섭습니다.
+language##언어###English is a global language.####영어는 세계적인 언어입니다.
+than##~보다###She is taller than me.####그녀는 나보다 키가 큽니다.
+video##영상###Let's watch a video.####영상을 봅시다.
+trash##쓰레기###Throw away the trash.####쓰레기를 버리세요.
+kill##죽이다###The story is about a hunter who does not kill animals.####그 이야기는 동물을 죽이지 않는 사냥꾼에 대한 이야기입니다.
+friendly##친절한###She is friendly.####그녀는 친절합니다.
+machine##기계###The machine is working.####기계가 작동하고 있습니다.
+please##제발###Please help me.####저를 도와주세요.
+board##판###Write it on the board.####칠판에 쓰세요.
+south##남쪽###We traveled south.####우리는 남쪽으로 여행했습니다.
+refrigerator##냉장고###The milk is in the refrigerator.####우유는 냉장고에 있습니다.
+forever##영원히###I will remember you forever.####나는 당신을 영원히 기억하겠습니다.
+practice##연습하다###Practice every day.####매일 연습하세요.
+academy##학원###I go to an English academy.####나는 영어 학원에 다닙니다.
+stay##머무르다###Stay here.####여기에 있으세요.
+dolphin##돌고래###The dolphin can swim fast.####돌고래는 빨리 헤엄칠 수 있습니다.
+daily##매일의###This is my daily routine.####이것은 나의 일상입니다.
+age##나이###What is your age?####당신의 나이는 몇 살인가요?
+shock##충격###The news was a shock.####그 소식은 충격이었습니다.
+cafeteria##구내식당###We eat in the cafeteria.####우리는 구내식당에서 식사합니다.
+own##자신의###I have my own room.####나는 내 방이 있습니다.
+plate##접시###Put it on the plate.####접시에 올려놓으세요.
+sour##신###The lemon is sour.####레몬은 셉니다.
+onion##양파###Cut the onion.####양파를 자르세요.
+useful##유용한###This book is useful.####이 책은 유용합니다.
+century##세기###We live in the twenty-first century.####우리는 21세기에 살고 있습니다.
+block##막다###Block the road.####길을 막으세요.
+war##전쟁###War is terrible.####전쟁은 끔찍합니다.
+basic##기본적인###Learn the basic rules.####기본 규칙을 배우세요.
+connect##연결하다###Connect the two wires.####두 전선을 연결하세요.
+healthy##건강한###Eat healthy food.####건강한 음식을 드세요.
+playground##놀이터###The children are in the playground.####아이들이 놀이터에 있습니다.
+over##~위에###The bird flies over the tree.####새가 나무 위를 납니다.
+skate##스케이트를 타다###I skate every winter.####나는 매년 겨울 스케이트를 탑니다.
+outside##밖에###Please wait outside.####밖에서 기다려 주세요.
+invent##발명하다###He wants to invent something new.####그는 새로운 것을 발명하고 싶어 합니다.
+character##등장인물###My favorite character is brave.####내가 가장 좋아하는 등장인물은 용감합니다.
+textbook##교과서###Open your textbook.####교과서를 펴세요.
+corner##모퉁이###Turn at the corner.####모퉁이에서 도세요.
+stress##스트레스###Too much stress is bad.####스트레스가 너무 많으면 좋지 않습니다.
+true##사실인###The story is true.####그 이야기는 사실입니다.
+dead##죽은###The tree is dead.####그 나무는 죽었습니다.
+bubble##거품###The bubble is big.####거품이 큽니다.
+miss##놓치다###Don't miss the bus.####버스를 놓치지 마세요.
+farmer##농부###The farmer grows vegetables.####농부는 채소를 기릅니다.
+print##인쇄하다###Print this page.####이 페이지를 인쇄하세요.
+solve##해결하다###We can solve the problem.####우리는 그 문제를 해결할 수 있습니다.
+culture##문화###I like Korean culture.####나는 한국 문화를 좋아합니다.
+condition##상태###The car is in good condition.####자동차 상태가 좋습니다.
+tonight##오늘 밤###See you tonight.####오늘 밤에 만나요.
+toe##발가락###My toe hurts.####발가락이 아픕니다.
+feed##먹이를 주다###Feed the fish.####물고기에게 먹이를 주세요.
+beauty##아름다움###Beauty is everywhere.####아름다움은 어디에나 있습니다.
+message##메시지###I got your message.####나는 당신의 메시지를 받았습니다.
+dialogue##대화###Read the dialogue.####대화를 읽으세요.
+countryside##시골###I live in the countryside.####나는 시골에 삽니다.
+enemy##적###The enemy is strong.####적은 강합니다.
+celebrate##축하하다###We celebrate your birthday.####우리는 당신의 생일을 축하합니다.
+certain##확실한###I am certain.####나는 확신합니다.
+adventure##모험###The adventure was exciting.####그 모험은 신났습니다.
+rough##거친###The road is rough.####길이 험합니다.
+point##점###That is the main point.####그것이 핵심입니다.
